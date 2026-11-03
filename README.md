@@ -1,122 +1,114 @@
 <!--
-  ENAMI HINA // GitHub Profile
-  Copyright (c) 2026 Enami Hina.
-  To display this profile, upload this README.md and the assets/ folder
-  to the PUBLIC repository github.com/junex0x/junex0x.
-  GIF animations are bundled locally, so no JavaScript or custom CSS is required.
+  ENAMI HINA · GitHub Profile · 2026
+  Ho so nay khong can dich vu tao anh ben ngoai.
+  Giữ README.md và thư mục assets/ cùng cấp khi đưa lên GitHub.
 -->
 
 <div align="center">
 
-  <img src="./assets/enami-hero.gif" width="100%" alt="Animated ENAMI HINA banner with glowing orbit and moving particles" />
+  <img src="./assets/enami-hero.gif" alt="ENAMI HINA — animated purple neon banner" width="100%" />
 
-  <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E9B9FA&center=true&vCenter=true&width=850&height=52&lines=Hello%2C+I%27m+Enami+Hina.;Self-taught+developer+%7C+Born+in+2007;Learning+through+curiosity+and+code;Building+my+skills%2C+one+line+at+a+time;独学でプログラミングを学んでいます" alt="Typing animation introducing Enami Hina" />
+  <h2>こんにちは、Enami Hina です ✦</h2>
 
   <p>
-    <img src="https://img.shields.io/badge/ENAMI_HINA-2007-CF9AE9?style=for-the-badge&labelColor=1A152C" alt="Enami Hina, born 2007" />
-    <img src="https://img.shields.io/badge/SELF--TAUGHT-DEVELOPER-AE8CE6?style=for-the-badge&labelColor=1A152C" alt="Self-taught developer" />
-    <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-F0B6D6?style=for-the-badge&labelColor=1A152C" alt="Always learning" />
+    <code>2007</code> &nbsp; <code>SELF-TAUGHT DEVELOPER</code> &nbsp; <code>CREATIVE CODING</code>
   </p>
 
+  <p><i>“A little curiosity, a lot of experiments.”</i></p>
   <sub>「少しずつ、でも確実に。」 — Từng chút một, nhưng luôn tiến về phía trước.</sub>
 
 </div>
 
 ---
 
-### `01`  ABOUT ME  ✦
+### `01 /` HELLO, WORLD!
 
-Xin chào, mình là **Enami Hina**, sinh năm **2007**. Mình là một người **tự học lập trình**, không bắt đầu từ một lộ trình hoàn hảo mà từ sự tò mò, thích khám phá và tự mày mò mọi thứ.
+Mình là **Enami Hina**, sinh năm **2007** — một người **tự học và tự mày mò lập trình**. Mình thích bắt đầu từ một câu hỏi đơn giản: *“Mình có thể tự làm được điều này không?”* rồi tìm cách biến ý tưởng thành thứ có thể sử dụng thật.
 
-Mình thích tìm hiểu cách những dòng code trở thành một trải nghiệm thật sự: giao diện đẹp, chuyển động mượt và tương tác có chủ đích. Mỗi lần gặp lỗi là một cơ hội để mình hiểu thêm về cách mọi thứ vận hành.
+Mình đặc biệt yêu thích **giao diện tinh gọn, các tương tác có chủ đích, hiệu ứng chữ và chuyển động mượt**. Mỗi lỗi code đều là một bài học mới.
 
 <div align="center">
-  <img src="./assets/enami-terminal.gif" width="96%" alt="Animated developer terminal typing Enami Hina's self-taught coding philosophy" />
+  <img src="./assets/enami-terminal.gif" alt="Animated terminal with typing text about learning to code" width="96%" />
 </div>
 
-### `02`  MY TECH STACK  ✦
+### `02 /` TECH I EXPLORE
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>LANGUAGES</strong>
+      <br /><br />
+      <code>HTML5</code> <code>CSS3</code><br />
+      <code>JavaScript</code> <code>SQL</code><br />
+      <code>PowerShell</code>
+    </td>
+    <td align="center" width="34%">
+      <strong>TOOLS &amp; PLATFORMS</strong>
+      <br /><br />
+      <code>Node.js</code> <code>Git</code><br />
+      <code>GitHub</code> <code>VS Code</code><br />
+      <code>Supabase</code> <code>Vercel</code>
+    </td>
+    <td align="center" width="33%">
+      <strong>THINGS I ENJOY</strong>
+      <br /><br />
+      <code>Responsive UI</code><br />
+      <code>CSS Animation</code> <code>PWA</code><br />
+      <code>REST APIs</code> <code>Maps</code>
+    </td>
+  </tr>
+</table>
+
+<sub>Đây là những công nghệ mình đã tìm hiểu hoặc sử dụng trên hành trình tự học, không phải danh sách chứng chỉ hay khẳng định thành thạo tất cả.</sub>
+
+### `03 /` MY CREATIVE LOOP
 
 <div align="center">
-
-  **Languages & foundations**
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,postgres,powershell&theme=dark" alt="HTML, CSS, JavaScript, PostgreSQL and PowerShell" />
-
-  <br />
-  <br />
-
-  **Tools & platforms**
-
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,supabase,vercel&theme=dark" alt="Node.js, Git, GitHub, VS Code, Supabase and Vercel" />
-
-  <br />
-  <br />
-
-  <img src="https://img.shields.io/badge/Responsive_UI-211832?style=flat-square&logo=css3&logoColor=E8B6FB" alt="Responsive UI" />
-  <img src="https://img.shields.io/badge/CSS_Animations-211832?style=flat-square&logo=css3&logoColor=E8B6FB" alt="CSS Animations" />
-  <img src="https://img.shields.io/badge/REST_APIs-211832?style=flat-square&logo=postman&logoColor=E8B6FB" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/PWA-211832?style=flat-square&logo=pwa&logoColor=E8B6FB" alt="Progressive Web Apps" />
-  <img src="https://img.shields.io/badge/Leaflet-211832?style=flat-square&logo=leaflet&logoColor=E8B6FB" alt="Leaflet" />
-
-</div>
-
-<sub>Đây là các ngôn ngữ, công nghệ và công cụ mình đã tìm hiểu hoặc sử dụng trong quá trình tự học; không phải danh sách chứng chỉ hay mức độ thành thạo.</sub>
-
-### `03`  THE WAY I LEARN  ✦
-
-<div align="center">
-  <img src="./assets/creative-loop.gif" width="96%" alt="Animated curiosity to code to creation loop" />
+  <img src="./assets/creative-loop.gif" alt="Animated loop: curiosity, code and creation" width="96%" />
 </div>
 
 ```text
-      DISCOVER       →       EXPERIMENT
-         ↑                      ↓
-       IMPROVE        ←       DEBUG
+        EXPLORE   →   BUILD
+           ↑            ↓
+        IMPROVE   ←   DEBUG
 ```
 
-- ✦ **Learn by doing:** Bắt đầu từ một ý tưởng, rồi vừa làm vừa học.
-- ✦ **Stay curious:** Không ngại đọc tài liệu, thử cách mới và đặt câu hỏi.
-- ✦ **Design with intention:** Quan tâm đến bố cục, màu sắc, chuyển động và trải nghiệm.
-- ✦ **Keep improving:** Viết lại, tối ưu và sửa đến khi tốt hơn phiên bản trước.
+- **Learn by doing** — Vừa thực hành, vừa nghiên cứu cách mọi thứ vận hành.
+- **Think visually** — Chú ý màu sắc, bố cục, cảm giác chuyển động và chi tiết nhỏ.
+- **Keep iterating** — Không ngại thử lại, sửa lại và viết tốt hơn phiên bản trước.
 
-### `04`  GITHUB ACTIVITY  ✦
+### `04 /` A LITTLE MORE ABOUT ME
+
+<details>
+  <summary><strong>✦ Nhấn để mở ghi chú trong terminal</strong></summary>
+
+  ```text
+  > whoami
+    Enami Hina
+
+  > born
+    2007
+
+  > education
+    Self-taught · Trial & error · Curiosity
+
+  > current_status
+    Still learning. Still creating.
+
+  > motto
+    Make it work. Understand why. Make it better.
+  ```
+
+</details>
+
+### `05 /` FIND ME ON GITHUB
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=junex0x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5B4F4&icon_color=D8A3EB&text_color=E6DDEE&ring_color=C69ADD" width="48%" alt="GitHub statistics for junex0x" />
-  <img src="https://streak-stats.demolab.com?user=junex0x&hide_border=true&background=0D1117&ring=CC9CE8&fire=F0B6D6&currStreakLabel=CC9CE8&sideLabels=E6DDEE&dates=AA9BAD&sideNums=FFFFFF&currStreakNum=FFFFFF" width="48%" alt="GitHub contribution streak for junex0x" />
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junex0x&bg_color=0d1117&color=e5b4f4&line=bd8bdd&point=f0b6d6&area=true&area_color=6d4b98&hide_border=true" width="98%" alt="GitHub contribution graph for junex0x" />
-
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=junex0x&label=PROFILE+VIEWS&color=bb8cdb&style=flat-square" alt="Profile view counter" />
-
+  <p><strong>Code · Learn · Create · Repeat</strong></p>
+  <p>
+    <a href="https://github.com/junex0x"><strong>github.com/junex0x</strong></a>
+  </p>
+  <sub>Made with curiosity · Enami Hina © 2026</sub>
 </div>
 
-### `05`  LET'S CONNECT  ✦
-
-<div align="center">
-
-  *“I don't know everything. But I never stop learning.”*
-
-  <br />
-
-  <a href="https://github.com/junex0x">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-junex0x-AC85D9?style=for-the-badge&logo=github&logoColor=white" alt="Visit Enami Hina's GitHub" />
-  </a>
-
-  <br />
-  <br />
-
-  <sub>Made with curiosity &amp; a lot of experiments · Enami Hina © 2026</sub>
-
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:100D1B,50:664A91,100:C78EA8&height=125&section=footer&animation=fadeIn" width="100%" alt="Soft purple footer wave" />
-
-</div>
+<!-- All moving visuals above are local GIFs: no third-party image generators needed. -->
